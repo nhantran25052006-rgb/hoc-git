@@ -1,2 +1,2 @@
-for so in range(1, 21):
+for so in range(1, 20):
     print(so)
