@@ -1,1 +1,1 @@
-Toi dang thuc hanh Git
+Hello word
